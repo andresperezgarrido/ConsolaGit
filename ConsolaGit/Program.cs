@@ -10,6 +10,7 @@ namespace ConsolaGit
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
