@@ -12,6 +12,7 @@ namespace ConsolaGit
         {
             Console.WriteLine();
             Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
