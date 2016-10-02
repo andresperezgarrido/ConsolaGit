@@ -10,7 +10,6 @@ namespace ConsolaGit
     {
         static void Main(string[] args)
         {
-            var apg = string.Empty;
             Console.WriteLine();
             Console.ReadKey();
             Console.ReadLine();
